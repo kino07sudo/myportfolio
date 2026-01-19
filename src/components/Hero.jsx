@@ -1,6 +1,6 @@
 import instagram from '../assets/instagram.png'
 import Discord from '../assets/discord.png'
-import X from '../assets/x.png'
+import X from "../assets/X.png";
 import mainpic from '../assets/mainpic.png'
 import hi from '../assets/cinnamon.png'
 import { Mail } from 'lucide-react'
